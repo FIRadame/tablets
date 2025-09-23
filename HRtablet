@@ -77,7 +77,7 @@
   "page_zooming": true,
   "device_sleep_time_monday": "19:00",
   "autoplay_audio": false,
-  "control_wifi_state": false,
+  "control_wifi_state": true,
   "display_toolbar_swipe_down": true,
   "idle_timeout": 10,
   "pause_javascript_timers_on_sleep": true,
