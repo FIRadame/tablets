@@ -15,7 +15,7 @@
   "custom_screensaver_type": "Image",
   "screensaver_urls": "file:///android_asset/start.htm",
   "show_back_icon": true,
-  "kiosk_url":"https://recruiting.paylocity.com/Recruiting/PublicLeads/New/e6a3ffbd-4f63-4c76-9382-bdcaf5db4497",
+  "kiosk_url":"https://recruiting.paylocity.com/Recruiting/Jobs/All/e6a3ffbd-4f63-4c76-9382-bdcaf5db4497",
   "use_wide_viewport": true,
   "hyperlink_sound": true,
   "reset_wifi": true,
